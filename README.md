@@ -1,8 +1,8 @@
 # README
 
 #[1.0.0](https://github.com/quick-lab/MPV) (26-05-2022)
-- 3kb amplicon schemes for MPV
+- 3kb amplicon schemes for MPV designed against 85 CA lineage genomes
 
 #[1.1.0](https://github.com/quick-lab/MPV) (04-07-2022)
-- Updated primer sequences for 3kb scheme
+- Primer sequences for 3kb scheme updated to match 2022 outbreak strain
 - Supplementary UTR pool (developed with BC Centre for Disease Control)
