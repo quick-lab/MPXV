@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # README
 
 \#[1.0.0](https://github.com/quick-lab/MPV) (26-05-2022) - 3kb amplicon
